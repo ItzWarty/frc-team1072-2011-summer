@@ -1,0 +1,88 @@
+The Plag of thZombie e
+By: ZombieDestoryer1337
+
+an: i putted a lot of tim in2 this so u h8rs gonna h8 but I know for a fakt that this store is the gGREATES STORE OF ALL TIME
+If u not say this r good dstorie I WONT RIGHT NAYMORE!!! DO NOT MAK FUN OF it.
+
+[Day 1]
+In teh midle of ny [ok, maybe 8:00 pm lol] you realise the streetlihgt are not work you see so your front lawn
+is not light during night so you are afraid that ZOMBIE COME!!!  It is univerally know
+that zombie are afraid of blinking red light sort of liek what you see in movie when 
+army  bbase are invade by alients or intruded by badf poepel.  [AN: I thinks that is why
+in movie u  never c teh zombie when there are base invasion.  The zomby see red light
+so tehy refues to goes out and KILL THE HUMAN]
+
+however are yuo amazing labview progamer you can write program make streetlight blikn
+red [AN: I KnOw tha the stree tlight cannt cahnge ocolor btu you has to has imaginatin
+or ytou are not be in novativ,e like me!]
+
+Hmm to yourself you say I ithink i can fix this.  The poblem is simpel you program 
+make lite blink ever 2/4 [an: haha tricky me!!!] secon to make zombie scare
+
+THe zombies you scare through night with blink light but come 7:00AM =THE SUND DOES NOT
+RAISE= WHAT???
+
+Little do you know because you are =now in battel for survival!
+
+[DAY 2!!!!]
+Your program are so godo but the night comne against and zombie come
+
+____________   ________   ___________       ______
+\________  /  |  _____ \ |  __   __  \     / ____ \
+        / /   | /     | || |  | |  | |    | /    \ .
+       / /    | |     | || |  | |  | |    | |____/ '
+      / /     | |     / .| |  | |  | |    |  _____/
+     / /______\ \____/ / | |  | |  | |    | /______
+    /__________\______/  |_|  |_|  |_| bi |_______/
+   Zombie strike: Day two
+
+[AN: Someone sohujld make the logos in mindcraft]
+
+THE SPIRIT OF ZOMBIE COME DOWN TO YOU! Why helo thar GET AWAY FROM MEy ou make the light blink X time a second
+This intimidate zombie becuse they see YOU ARE IN CTONROL.
+
+So cool you are you are so cool youi put on glasses and look likle that guy from men in black
+with the gun going pew pew pew pew pew.  So liek on albview you have numberic slider that tell how many flash per second you want!
+
+You maeke  the light flashes at diferent speed depending on slider so that ozmbie see that you are there and they scare.
+
+hahahahahhahah said spirit of zombie NO YOU WILL BE VANQUISH!!!! sas you.  I will vanquish YOUUU with my blink light haha! hah hahah
+
+ahaha haha zombie spirit say haha.  The zombie spirit are create misst in sky and then the zombie appaear out of mist.  You mak
+the lights blinkms so that the zombie are like aaaaaaaah grah uh naaaarggh, ok?
+
+The zombie spirit wheel around OH MY GOD HOW YOU DEFEATED ME???? I COME AGAINST TOMOR OW?  I CHALLENGE YOU COME AGAIN TOMORROW ZOLMBIE
+MASTER!!!!  HAHA HA YOU LAUGH
+
+AND THEN YOU GO TO SLEP
+
+(an: I respek so much you chaleng zombie and doesnt afraid of anything)
+
+
+
+DAY 3-THE LAST BOTTLE!!!
+
+You remembers frm yesterdad d zombe hurts by differn color lights.
+In preparations you hacks another streetlmp 2 make blink LOL!
+
+Teh sun die and moon come up
+
+The zombie gerald appear I CHALLENGE YOU TO DEUAL
+
+Haha so funni!!  He laugh Ha ha ha ha ha because he thought it was funny because he was zombie evil maniac.
+
+The zomb ie see your light and so scare.  the light blink and szaombier like aaaaaaaaargh and then explota.
+
+FiNaLmEnTe, Tu Is El WiNaDoR1!1  Congratulation good person!  Now GO INTO THE SOCEITY AND ED WORD HUGNER!!!
+
+Credit:
+MIrosoft Ofice - SPell cheks!
+Radability FLesht Kinkaid - 4.1
+Reading ease: 81.7
+0 passive sentence!!! haha I improves
+
+
+Goal:
+Day 1: Using the light given to you, switch the state of the light every 500 milliseconds
+Day 2: Given the light to you, make it blink "slider's value" times per second
+Day 3: Make two lights blink
