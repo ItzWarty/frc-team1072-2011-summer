@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+	<p>Min calculated as:<br />
+	unsigned: 0; signed: -(2^(b-1))<br />
+	Max:<br />
+	unsigned: (2^b)-1; signed: 2^(b-1)-1</p>
+	<table width="1" bordercolor="#000000">
+    	<tr><td>Name/aliases</td><td>Bits used</td><td>Minimum [unsigned]</td><td>Maximum [unsigned]</td></tr>
+    	<tr>
+    	  <td>byte/char</td>
+    	<td>8</td>
+    	<td>-128 [0]</td>
+    	<td>127 [255]</td></tr>
+    	<tr>
+    	  <td>word/short/Int16/[u]int_16t</td>
+    	  <td>16</td>
+    	  <td>-32768 [0]</td>
+    	  <td>32767 [65536]</td>
+  	  </tr>
+    	<tr>
+    	  <td>dword/long/int32/[u]int_32t</td>
+    	  <td>32</td>
+    	  <td>-2147483648<br />
+   	      [0]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    	  <td> <p>2147483647<br />
+   	      [4294967296]</p></td>
+  	  </tr>
+    	<tr>
+    	  <td>qword/long long/int64/[u]int_64t</td>
+    	  <td>64</td>
+    	  <td>Something small[0]</td>
+    	  <td>Something big</td>
+  	  </tr>
+    </table>
+</body>
+</html>
